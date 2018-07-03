@@ -16,7 +16,7 @@
 <h2 align="center">Skills</h2>
 
 <h3>Web Design Skills</h3>
-<p>Html, css</p>
+<p>HTML, CSS</p>
 
 
 <h3>Analytic Skills</h3>
