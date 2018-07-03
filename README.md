@@ -4,7 +4,7 @@
 <h1 align="center">Jessica Hu</h1>
 <ul>
   <li>Location: Taipei, Taiwan</li>
-  <li>LinkedIn Profile: <a href="https://www.linkedin.com/in/jessjessicahu/">www.linkedin.com/in/jessjessicahu/</a></li>
+  <li>LinkedIn Profile: <a href="https://www.linkedin.com/in/jessjessicahu/">https://www.linkedin.com/in/jessjessicahu/</a></li>
   <li>Personal Website: <a href="https://jessjessicahu.github.io/">https://jessjessicahu.github.io/</a></li>
   <li>E-mail: <a href="mailto:chien821016@gmail.com">chien821016@gmail.com</a></li>
 </ul>
