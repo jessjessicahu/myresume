@@ -33,7 +33,7 @@
 
 <h2 align="center">Work Experience</h2>
 <h3>Fuzhou Vange Corporation, Fujian, Mainland China</h3>
-<h4><i>Software Development Department Assistant (Intern)</i></h4>
+<h4><i>Software Development Department Intern (Summer 2014)</i></h4>
 <ul>
   <li>System Testing</li>
   <li>Logical and Physical Database Design</li>
