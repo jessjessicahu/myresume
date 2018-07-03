@@ -15,8 +15,8 @@
 <p>JAVA, Python, R, SAS, Hadoop, Hive, MongoDB, SQL, Tableau, Advanced Excel</p>
 
 <h3>Languages</h3>
-<h4><i>Chinese</i></h4>
-  <p>Native Speaker Level</p>
+<dt><i>Chinese</i></dt>
+  <dd>Native Speaker Level</dd>
 <h4></i>English</h4>
   <p>Proficient in Read, Write, Speak, and Listen</p>
 
