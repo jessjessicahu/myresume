@@ -2,11 +2,13 @@
 <html>
 <head>
   <h1 align="center">Jessica Hu</h1>
-  <hr size=2px>
+  <hr>
 </head>
 <body>
-<h2>Education</h2>
-<hr>
+
+<h2 align="center"><b>Skills</b></h2>
+<h2 align="center">Education</h2>
+
 
 </body>
 </html>
