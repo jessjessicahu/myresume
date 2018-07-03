@@ -30,7 +30,7 @@
   <li>Applied one-way ANOVA and Pearson’s coefficient r to recognize variables highly correlated to prices</li>
   <li>Explored potential association within variables by exploiting correlation matrix and partial correlation test</li>
   <li>Constructed predictive model using backward stepwise regression results in adjusted r-squared of 0.87</li>
-<ul>
+</ul>
 
 <h3>Data Visualization</h3>
 <h4><i>Analysis of Alaska Airlines Competitors</i></h4>
