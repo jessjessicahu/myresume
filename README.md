@@ -3,8 +3,9 @@
 <head>
 <h1 align="center">Jessica Hu</h1>
 <ul>
-  <li>LinkedIn Profile:<a href="https://www.linkedin.com/in/jessjessicahu/">www.linkedin.com/in/jessjessicahu/</a></li>
-  <li>E-mail:<a href="mailto:chien821016@gmail.com">chien821016@gmail.com</a></li>
+  <li>Location: Taipei,Taiwan</li>
+  <li>LinkedIn Profile: <a href="https://www.linkedin.com/in/jessjessicahu/">www.linkedin.com/in/jessjessicahu/</a></li>
+  <li>E-mail: <a href="mailto:chien821016@gmail.com">chien821016@gmail.com</a></li>
 </ul>
 </head>
   
