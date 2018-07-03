@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-</style>
+  <h1 style="text-align:center;">Jessica Hu</h1>
 </head>
 <body>
 
