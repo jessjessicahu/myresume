@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h2 align="center"><b>Skills</b></h2>
-<h2 align="center">Education</h2>
+<h3 align="center">Skills</h3>
+<h3 align="center">Education</h3>
 
 
 </body>
