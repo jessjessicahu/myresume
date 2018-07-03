@@ -10,13 +10,6 @@
 
 <h2 align="center">Skills</h2>
 
-<h3>Analytic Skills</h3>
-<ul style="display:inline;">
-  <li> a</li>
-  <li> a</li>
-  <li> a</li>
-  <li> a</li>
-</ul>
 
 <h3>Technical Skills</h3>
 <p>JAVA, Python, R, SAS, Hadoop, Hive, MongoDB, SQL, Tableau, Advanced Excel</p>
