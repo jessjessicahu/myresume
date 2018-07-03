@@ -24,7 +24,7 @@
 <h2 align="center">Academic Projects</h2>
 
 <h3>Predictive Modeling</h3>
-<p>King County House Price Variations Factors Analysis</p>
+<p><i>King County House Price Variations Factors Analysis</i></p>
 <ul>
   <li>Discovered crucial influences on sold house prices in a dataset of 21 variables using R</li>
   <li>Applied one-way ANOVA and Pearson’s coefficient r to recognize variables highly correlated to prices</li>
