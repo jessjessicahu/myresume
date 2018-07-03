@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <h1 align="center">Jessica Hu</h1>
-  <hr>
-</head>
-<body>
 
+  
+<body>
+<h1 align="center">Jessica Hu</h1>
+  <hr>
 
 <h2 align="center">Skills</h2>
 <h3>Analytic Skills</h3>
