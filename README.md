@@ -17,8 +17,8 @@
 <h3>Languages</h3>
 <dt><i>Chinese</i></dt>
   <dd>Native Speaker Level</dd>
-<h4></i>English</h4>
-  <p>Proficient in Read, Write, Speak, and Listen</p>
+<dt><b>English</b></dt>
+  <dd>Proficient in Read, Write, Speak, and Listen</dd>
 
 
 <h2 align="center">Education</h2>
