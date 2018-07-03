@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
-
+<head>
+<h1 align="center">Jessica Hu</h1>
+<hr>
+</head>
   
 <body>
-<h1 align="center">Jessica Hu</h1>
-  <hr>
+
 
 <h2 align="center">Skills</h2>
+
 <h3>Analytic Skills</h3>
 <h3>Technical Skills</h3>
 <h3>Languages</h3>
@@ -56,10 +59,12 @@
   <li>Performed data augmentation to solve the problem of unbalanced training set</li>
   <li>Constructed 4 different CNN models with altered dropout rate and learning rate to recognize the best method</li>
   <li>Reduced training accuracy from 99.6% to 70% to alleviate overfitting problem of original model with final result of    65.6% testing accuracy and cross entropy loss approximate to 1</li>
-
 </ul>
 
+
 <h2 align="center">Work Experience</h2>
+<h3>Fuzhou Vange Corporation, Fujian, Mainland China  <h3 align="right">2016</h3></h3>
+<h4><i>Software Development Department Assistant (Intern)</i></h4>
 
 
 
