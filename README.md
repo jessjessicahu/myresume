@@ -11,8 +11,19 @@
 <h2 align="center">Skills</h2>
 
 <h3>Analytic Skills</h3>
+<ul style="display:inline;">
+  <li> a</li>
+  <li> a</li>
+  <li> a</li>
+  <li> a</li>
+</ul>
+
 <h3>Technical Skills</h3>
+<p>JAVA, Python, R, SAS, Hadoop, Hive, MongoDB, SQL, Tableau, Advanced Excel</p>
+
 <h3>Languages</h3>
+<p>Chinese</p>
+<p>English</p>
 
 
 <h2 align="center">Education</h2>
@@ -21,6 +32,16 @@
 <p>Master of Science in Business Analytics - GPA: 3.8</p>
 <h3>National Cheng Kung University (NCKU), Tainan, Taiwan</h3>
 <p>Bachelor in Industrial and Information Management - GPA: 3.6</p>
+
+
+<h2 align="center">Work Experience</h2>
+<h3>Fuzhou Vange Corporation, Fujian, Mainland China</h3>
+<h4><i>Software Development Department Assistant (Intern)</i></h4>
+<ul>
+  <li>System Testing</li>
+  <li>Logical and Physical Database Design</li>
+  <li>Database Migration using SQL</li>
+</ul>
 
 
 <h2 align="center">Academic Projects</h2>
@@ -62,14 +83,7 @@
 </ul>
 
 
-<h2 align="center">Work Experience</h2>
-<h3>Fuzhou Vange Corporation, Fujian, Mainland China</h3>
-<h4><i>Software Development Department Assistant (Intern)</i></h4>
-<ul>
-  <li>System Testing</li>
-  <li>Logical and Physical Database Design</li>
-  <li>Database Migration using SQL</li>
-</ul>
+
 
 
 </body>
