@@ -20,7 +20,7 @@
     <dd>Native Speaker Level</dd>
   <dt><b><i>English</i></b></dt>
     <dd>Proficient in Read, Write, Speak, and Listen</dd>
-   <dt><b><i>Spainish</i></b></dt>
+   <dt><b><i>Spanish</i></b></dt>
     <dd>Currently learning</dd>
 </dl>
 
