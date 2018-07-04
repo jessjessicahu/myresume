@@ -86,8 +86,10 @@
 <h2 align="center">Education</h2>
 
 <h3>University of Illinois at Chicago, Illinois, USA</h3>
+<h4><i>8.2016-12.2017</i></h4>
 <p>Master of Science in Business Analytics - GPA: 3.8</p>
 <h3>National Cheng Kung University (NCKU), Tainan, Taiwan</h3>
+<h4><i>9.2012-6.2016</i></h4>
 <p>Bachelor in Industrial and Information Management - GPA: 3.6</p>
 
 
