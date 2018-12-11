@@ -56,7 +56,7 @@
 </ul>
 
 <h3>Data Visualization</h3>
-<h4><i>Analysis of Alaska Airlines Competitors</i></h4>
+<h4><a href="https://github.com/jessjessicahu/myreport/blob/master/Alaska_Competitor_Analysis.pdf"><i>Analysis of Alaska Airlines Competitors</i></a></h4>
 <ul>
   <li>Created interactive dashboard using Tableau with on-time flight dataset from U.S. department of transportation</li>
   <li>Recognized Southwest as competitor for being the only carrier has more flight services to Alaska’s popular paths</li>
@@ -65,7 +65,7 @@
 </ul>
 
 <h3>Sentiment Analysis</h3>
-<h4><i>Analysis of politeness in sentences</i></h4>
+<h4><a href="https://github.com/jessjessicahu/myreport/blob/master/Analysis_of_politeness_in_sentences.pdf"><i>Analysis of politeness in sentences</i></a></h4>
 <ul>
   <li>Devised computational approach to characterize politeness marking of sentences using Python</li>
   <li>Tokenized training datasets using n-gram tokenizer and calculate tf-idf of each features</li>
@@ -74,7 +74,7 @@
 </ul>
 
 <h3>Deep Learning</h3>
-<h4><i>Deep Learning: Facial Expression Recognition</i></h4>
+<h4><a href="https://github.com/jessjessicahu/myreport/blob/master/Facial_Expression_Recognition.pdf"><i>Deep Learning: Facial Expression Recognition</i></a></h4>
 <ul>
   <li>Classified 48*48-pixel images of faces in to 7 categories by training more than 28,000 images</li>
   <li>Performed data augmentation to solve the problem of unbalanced training set</li>
